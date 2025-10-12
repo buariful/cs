@@ -23,8 +23,28 @@ int main(){
     // printf ("\n");
     // printf ("%d", b);
     // printf ("%lli", abc);
-    printf ("number is = %d", num1);
+    // printf ("number is = %d", num1);
+
+//     Hello, world! I am learning C programming language. ^_^
+
+// Programming is fun and challenging. /\/\/\
+
+// I want to give my 100% dedication to learn!	I will succeed one day.
+
+
+    // double a =   15%4;
+    // printf("dsfsfdfs\n");
     
+    // int i = 1;
+    // do
+    // {
+    //     printf("%d ",i);
+    //     i++;
+    // } while (i<5);
+
+
+    printf("Programming is fun and challenging. /\\/\\/\\");
+
     return 0;
 }
 
