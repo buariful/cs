@@ -3,7 +3,7 @@
 int main(){
     // printf("hello\nworld");
 
-    int num1 = 1234567890123456;
+    int num1 = 1234;
     num1 = 30;
     float f = 25.36;
      double ab = 25.123456789;
@@ -23,7 +23,7 @@ int main(){
     // printf ("\n");
     // printf ("%d", b);
     // printf ("%lli", abc);
-    printf ("%lf", ab);
+    printf ("number is = %d", num1);
     
     return 0;
 }
